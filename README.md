@@ -13,3 +13,10 @@
 
 - 授業評価+成績一覧
 	- [教務関係 | 筑波大学 情報学群 | 知識情報・図書館学類](https://klis.tsukuba.ac.jp/school_affairs.html)
+
+# ブランチ
+
+- master
+	- tabulaで表を作成したときのまま
+- ForStat
+	- [argonism/KlisStatistics](https://github.com/argonism/KlisStatistics)のために整形したデータ
